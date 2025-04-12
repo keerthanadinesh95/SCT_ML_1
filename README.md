@@ -45,7 +45,7 @@ The **California Housing** dataset includes:
 
 ## 🚀 Author
 **👩‍💻 Keerthana Dinesh**  
-Machine Learning Intern | [LinkedIn](https://www.linkedin.com/in/keerthana-dinesh-140502141/)
+Machine Learning Intern | [[LinkedIn](https://www.linkedin.com/in/keerthanadinesh95/)]
 
 ---
 
